@@ -1,4 +1,4 @@
-# 📠 Auto Forward V2
+# 📠 Auto Forward V3
 A Simple Bot can copy any media to a private channel provided!
 Without Admin Permission in FROM_CHANNEL
 Only Give Permission In your Telegram Personal Channel
